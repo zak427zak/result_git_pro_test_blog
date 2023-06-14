@@ -20,5 +20,8 @@
   "homepage": "https://github.com/zak427zak/result_git_pro_test_blog#readme",
   "devDependencies": {
     "gh-pages": "^5.0.0"
+  },
+  "dependencies": {
+    "react-bootstrap": "^2.7.4"
   }
 }
