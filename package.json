@@ -1,0 +1,24 @@
+{
+  "name": "result-git-pro-test-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zak427zak/result_git_pro_test_blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zak427zak/result_git_pro_test_blog/issues"
+  },
+  "homepage": "https://github.com/zak427zak/result_git_pro_test_blog#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
